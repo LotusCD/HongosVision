@@ -1,0 +1,354 @@
+{
+    "Cookeina speciosa": {
+        "family": "Sarcoscyphaceae",
+        "genus": "Cookeina",
+        "order": "Pezizales",
+        "phylum": "Ascomycota",
+        "class": "Pezizomycetes",
+        "kingdom": "Fungi"
+    },
+    "Lentinus flexipes": {
+        "family": "Polyporaceae",
+        "genus": "Lentinus",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Cookeina tricholoma": {
+        "family": "Sarcoscyphaceae",
+        "genus": "Cookeina",
+        "order": "Pezizales",
+        "phylum": "Ascomycota",
+        "class": "Pezizomycetes",
+        "kingdom": "Fungi"
+    },
+    "Leiotrametes menziesii": {
+        "family": "Polyporaceae",
+        "genus": "Leiotrametes",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Phallus indusiatus": {
+        "family": "Phallaceae",
+        "genus": "Phallus",
+        "order": "Phallales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Marasmius tageticolor": {
+        "family": "Marasmiaceae",
+        "genus": "Marasmius",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Cantharellus minor": {
+        "family": "Cantharellaceae",
+        "genus": "Cantharellus",
+        "order": "Cantharellales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Tricholomopsis aurea": {
+        "family": "Tricholomataceae",
+        "genus": "Tricholomopsis",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Pycnoporus sanguineus": {
+        "family": "Polyporaceae",
+        "genus": "Pycnoporus",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Favolus tenuiculus": {
+        "family": "Polyporaceae",
+        "genus": "Favolus",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Lentinula raphanica": {
+        "family": "Omphalotaceae",
+        "genus": "Lentinula",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Phaeoclavulina zippelii": {
+        "family": "Gomphaceae",
+        "genus": "Phaeoclavulina",
+        "order": "Gomphales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Gymnopus montagnei": {
+        "family": "Omphalotaceae",
+        "genus": "Gymnopus",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Phylacia poculiformis": {
+        "family": "Hypoxylaceae",
+        "genus": "Phylacia",
+        "order": "Xylariales",
+        "phylum": "Ascomycota",
+        "class": "Sordariomycetes",
+        "kingdom": "Fungi"
+    },
+    "Cyathus striatus": {
+        "family": "Agaricaceae",
+        "genus": "Cyathus",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Lentinus concavus": {
+        "family": "Polyporaceae",
+        "genus": "Lentinus",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Ophiocordyceps kniphofioides": {
+        "family": "Ophiocordycipitaceae",
+        "genus": "Ophiocordyceps",
+        "order": "Hypocreales",
+        "phylum": "Ascomycota",
+        "class": "Sordariomycetes",
+        "kingdom": "Fungi"
+    },
+    "Trichoderma atroviride": {
+        "family": "Hypocreaceae",
+        "genus": "Trichoderma",
+        "order": "Hypocreales",
+        "phylum": "Ascomycota",
+        "class": "Sordariomycetes",
+        "kingdom": "Fungi"
+    },
+    "Lepiota guatopoensis": {
+        "family": "Agaricaceae",
+        "genus": "Lepiota",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Oudemansiella canarii": {
+        "family": "Physalacriaceae",
+        "genus": "Oudemansiella",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Marasmius haedinus": {
+        "family": "Marasmiaceae",
+        "genus": "Marasmius",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia spinea": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia sprucei": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia pulviniformis": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia crispata": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia hians": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia subradiata": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia pertricosa": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Cladonia corallifera": {
+        "family": "Cladoniaceae",
+        "genus": "Cladonia",
+        "order": "Lecanorales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Golovinomyces cichoracearum": {
+        "family": "Erysiphaceae",
+        "genus": "Golovinomyces",
+        "order": "Erysiphales",
+        "phylum": "Ascomycota",
+        "class": "Leotiomycetes",
+        "kingdom": "Fungi"
+    },
+    "Marasmius schultesii": {
+        "family": "Marasmiaceae",
+        "genus": "Marasmius",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Trichoderma spirale": {
+        "family": "Hypocreaceae",
+        "genus": "Trichoderma",
+        "order": "Hypocreales",
+        "phylum": "Ascomycota",
+        "class": "Sordariomycetes",
+        "kingdom": "Fungi"
+    },
+    "Lentinus berteroi": {
+        "family": "Polyporaceae",
+        "genus": "Lentinus",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Xylaria hypoxylon": {
+        "family": "Xylariaceae",
+        "genus": "Xylaria",
+        "order": "Xylariales",
+        "phylum": "Ascomycota",
+        "class": "Sordariomycetes",
+        "kingdom": "Fungi"
+    },
+    "Picipes virgatus": {
+        "family": "Polyporaceae",
+        "genus": "Picipes",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Hygrocybe miniata": {
+        "family": "Hygrophoraceae",
+        "genus": "Hygrocybe",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Leucocoprinus birnbaumii": {
+        "family": "Agaricaceae",
+        "genus": "Leucocoprinus",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Panus tephroleucus": {
+        "family": "Polyporaceae",
+        "genus": "Panus",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Amauroderma omphalodes": {
+        "family": "Ganodermataceae",
+        "genus": "Amauroderma",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Schizophyllum commune": {
+        "family": "Schizophyllaceae",
+        "genus": "Schizophyllum",
+        "order": "Agaricales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Auricularia delicata": {
+        "family": "Auriculariaceae",
+        "genus": "Auricularia",
+        "order": "Auriculariales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Ganoderma longistipitatum": {
+        "family": "Ganodermataceae",
+        "genus": "Ganoderma",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Tricharia urceolata": {
+        "family": "Gomphillaceae",
+        "genus": "Tricharia",
+        "order": "Ostropales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    },
+    "Gyalectidium filicinum": {
+        "family": "Gomphillaceae",
+        "genus": "Gyalectidium",
+        "order": "Ostropales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    }
+}

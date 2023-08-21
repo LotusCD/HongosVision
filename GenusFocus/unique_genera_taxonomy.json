@@ -1,0 +1,24 @@
+{
+    
+    "Leiotrametes": {
+        "family": "Polyporaceae",
+        "order": "Polyporales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Dacrymyces": {
+        "family": "Dacrymycetaceae",
+        "order": "Dacrymycetales",
+        "phylum": "Basidiomycota",
+        "class": "Dacrymycetes",
+        "kingdom": "Fungi"
+    },
+    "Phallus": {
+        "family": "Phallaceae",
+        "order": "Phallales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    }
+}
