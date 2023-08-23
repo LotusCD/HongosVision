@@ -1,0 +1,30 @@
+{
+    "Lachnum": {
+        "family": "Lachnaceae",
+        "order": "Helotiales",
+        "phylum": "Ascomycota",
+        "class": "Leotiomycetes",
+        "kingdom": "Fungi"
+    },
+    "Phallus": {
+        "family": "Phallaceae",
+        "order": "Phallales",
+        "phylum": "Basidiomycota",
+        "class": "Agaricomycetes",
+        "kingdom": "Fungi"
+    },
+    "Orbilia": {
+        "family": "Orbiliaceae",
+        "order": "Orbiliales",
+        "phylum": "Ascomycota",
+        "class": "Orbiliomycetes",
+        "kingdom": "Fungi"
+    },
+    "Stictis": {
+        "family": "Stictidaceae",
+        "order": "Ostropales",
+        "phylum": "Ascomycota",
+        "class": "Lecanoromycetes",
+        "kingdom": "Fungi"
+    }
+}
